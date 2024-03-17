@@ -1,1 +1,7 @@
 test_ignore_file.txt
+
+# With a pattern 
+# *.log
+
+# only a path 
+log/
