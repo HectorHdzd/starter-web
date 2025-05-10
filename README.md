@@ -22,7 +22,3 @@ Please fork this repository and then issue pull request for review
 ### Copyright
 
 2014 Git.training. Allright reserved
-
-### Prueba
- 
-Esta es una prueba de github 
